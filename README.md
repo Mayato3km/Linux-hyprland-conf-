@@ -1,8 +1,11 @@
 # Linux-hyprland-conf-
 
+___
 
 <img src=https://i.imgur.com/pz3DKDe.png>
+
 ___
+
 ## 1. If you want to change you'r wallper use swaybg 
 (`line 21`)
 
