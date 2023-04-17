@@ -1,7 +1,7 @@
 # Linux-hyprland-conf-
 
 
-[<img src='https://imgur.com/a/Kt0ovkU' alt='GITHUB'  width='16.5%'>]
+[<img src=https://imgur.com/a/Kt0ovkU>]
 ___
 ## 1. If you want to change you'r wallper use swaybg 
 (`line 21`)
