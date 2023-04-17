@@ -2,6 +2,7 @@
 
 ## 1. If you want to change you'r wallper use swaybg (`line 21`)
 ```sudo pacman -Su swaybg```
+
 ``exec-once = swaybg --image *road of you'r wallper* -m fill``
 
 ## 2. Add you'r keeboard layout (`line 33`)
